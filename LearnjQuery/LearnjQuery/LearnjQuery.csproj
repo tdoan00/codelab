@@ -72,6 +72,11 @@
     <Content Include="DoStuff.html" />
     <Content Include="FurryFriend.html" />
     <Content Include="images\furry_friend.jpg" />
+    <Content Include="images\jump1.jpg" />
+    <Content Include="images\jump2.jpg" />
+    <Content Include="images\jump3.jpg" />
+    <Content Include="images\jump4.jpg" />
+    <Content Include="JumpJoy.html" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
     <Content Include="Scripts\jquery-3.3.1.slim.js" />
